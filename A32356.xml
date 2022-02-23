@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation against papists</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32356</idno>
+            <idno type="STC">Wing C3219</idno>
+            <idno type="STC">ESTC R28125</idno>
+            <idno type="EEBO-CITATION">15579960</idno>
+            <idno type="OCLC">ocm 15579960</idno>
+            <idno type="VID">103909</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32356)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103909)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1184:74)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation against papists</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>Gibson, Alexander, Sir, d. 1693.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Reprinted at London according to the original printed at Edinburgh, and are to be sold by Andrew Forrester ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Al. Gibsone, Cls. Ste. Concilii.</note>
+                  <note>Imperfect: creased, with loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678.</term>
+               <term>Anti-Catholicism --  England.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:103909:1" rendition="simple:additions"/>
+            <head>A PROCLAMATION Againſt PAPISTS.</head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">C</seg>HARLES, by the Grace of God, King of Great <hi>Britain, France,</hi> and <hi>Ireland,</hi> Defender of the Faith,</signed>
+               <salute>To Our Lyon King at Arms, and his brethren Heraulds, Macers, Purſevants or Meſſengers at Arms, Our Sheriffs in that part, conjunctly and ſeverally ſpecially constitute, Greeting;</salute>
+            </opener>
+            <p>Foraſmuch as We and Our Royal Anceſtours, have always made it Our chief Care to preſerve Religion in its purity, and to ſee the Almighty God (from whom alone We derive Our Power) Worſhipped in Our Dominions, with that profound Submiſſion and Reverence, which is due to His Great and Holy Name, knowing that Sincerity in Religion is the ſureſt Foundation of Obedience to Us, and Unanimity in it, is the firmeſt Band of Peace and Concord among Our Subjects: And We having of late found, that the Bloody, as well as Idolatrous Principles of the Papiſts, have incited theſe of that Profeſſion, to contrive Plots againſt Our Royal Perſon, and Alterations in the Government of Our Kingdoms, to the Subverſion of the Pro<g ref="char:EOLhyphen"/>teſtant Religion, which is (through God's infinite Goodneſs) eſtabliſhed by Law, and of the Civil Rights and Prerogatives of Our Crown, endeavouring to enſlave Us, Our Subjects and Our Conſciences, to the Pope and See of <hi>Rome,</hi> notwithſtanding of the great Clemency ſhown by Us to them, ſince God Re<g ref="char:EOLhyphen"/>ſtored Us to Our Government, under which they have abundantly taſted of the Fruits of that Peace, which We have procured to Our Subjects by Our Royal Care: And yet We being ever unwilling to puniſh ſuch as may be reclaimed, or to ſurprize even ſuch as are irreclameable, Have therefore, with Advice of Our Privy Council, thought fit, hereby to Command all Jeſuits and other Prieſts, or Trafficking Papiſts, to Depart forth of this Our Kingdom, betwixt and the firſt day of <hi>March</hi> next; with Certification, that all ſuch Jeſuits, Prieſts, and Trafficking Papiſts, as ſhall be found within this Our Kingdom after that day, ſhall be proceeded againſt Criminally, conform to the 120. Act of the 12, Parl. of <hi>K. James</hi> the 6. Whereby they, and ſuch as Reſſett them, are declared guilty of, and made lyable to the pains of Treaſon; and that We will put the Laws in Execution, which are made by Us and Our Predeceſſours, againſt Sayers and Hearers of Maſſe. And to the end, that Our Faithful and Orthodox Subjects, may be ſecured againſt the dreadfull Effects of ſuch blind and bloody Zeal, as concludes nothing a Crime which may enlarge that Sect, or advance that Profeſſion. We do hereby Command and Charge all Papiſts, of what quality ſoever, within this Our Kingdom, To deliver up (upon Oath) their Arms of all ſorts to the Sheriffs, Stewarts, Lords of Regality, and Magiſtrates of Burghs, within whoſe Juriſ<g ref="char:EOLhyphen"/>diction they live, and that betwixt and the reſpective dayes following, <hi>viz.</hi> Theſe on the South ſide of the Water of <hi>Esk,</hi> betwixt and the twenty day of <hi>February;</hi> and theſe on the North ſide of the ſaid Water, betwixt and the twenty day of <hi>March</hi> next: Certifying them, if they ſhall be found to have any Arms, after the dayes foreſaid <hi>reſpective,</hi> they ſhall be proceeded againſt with all Rigor, as Contemners of Our Authority: Ordaining hereby our ſaids Sheriffs, and other Magiſtrates foreſaid, to ſearch for Arms ſuſpect to be undelivered, belonging to Papiſts in any houſes or places ſuſpected, and to ſeize upon and ſecure the ſame; As alſo in their ſeveral Bounds to ſearch for, take, and apprehend, all ſuch Jeſuits, Prieſts, and Trafficking Papiſts, as ſhall be found therein after the day foreſaid, and to commit them to the next convenient and ſure Priſon, therein to remain, till they receive due puniſhment according to Law, as it is appointed by the 8. Act of the 1. Seſſion of Our 1. Parliament: And to return to Our Council an Exact Account of their Diligence in the
+Premiſſes, betwixt and the days following, <hi>viz.</hi> Theſe on the South-ſide of the ſaid Water of <hi>Esk,</hi> betwixt and the firſt Thurſday of <hi>March;</hi> and theſe on the North ſide of the ſaid Water of <hi>Esk,</hi> betwixt and the firſt Thurſday of <hi>April</hi> next, as they will be anſwerable at their higheſt perill. And further, We do hereby Command all the Judges, in Our reſpective Judicatures, that they ſuffer none to bear any publick Office, nor be admitted Procura<g ref="char:EOLhyphen"/>tor, Notar, or Member of Court, as alſo that the Officers of our ſtanding Forces and <hi>Militia,</hi> permit none to bear Arms under Us, unleſs they profeſs the True Reformed Proteſtant Religion, eſtabliſht within this Our Realm, conform to the 5. Act of the 1. Parl. of King <hi>James</hi> the 6. And we hereby diſscharge all Our Nobility, and others, to ſend their Children abroad with Pedagogues or Governours to be bred in Forraign Kingdoms, unleſs they have Teſtimonials from the Biſhop of the Dioceſs, and that at their Return, the ſaids Children go to the Biſhop, and give him an Account of the Confeſſion of their Faith; diſcharging their Parents, if they turn Papiſts, to entertain or fur<g ref="char:EOLhyphen"/>niſh them after their perverſion, unleſs with as much as may bring them home under the pains and penalties expreſt in the 71 Act of the 6. Parl. of K. <hi>James</hi> the 6. And in the firſt Act of the 16. Parl. of K. <hi>James</hi> the 6. <hi>viz.</hi> Every Earl contraveening, five thouſand pounds <hi>Scots;</hi> Every Lord, five thouſand Merks; Every Baron, three thouſand Merks; And for preventing of which Errors in the riſing Generations, We Ordain the Lords of Our Privy Council to take from Popiſh Parents and Tutors, all their children or pupills, and to commit their Education to ſuch well affect<g ref="char:EOLhyphen"/>ed and Religious Friends, as We or they ſhall name, conforme to the 9. Act of the 1. Seſſion of Our firſt Parliament: And to the end all Our good Subjects may unanimously joyne, not only in Hearing the Word of GOD, but in participating His Holy Sacraments, We do hereby revive that excellent Statute, made by Our Royal Grand-Father, in the 17. Act of His 16. Parl. whereby it is Statute and Ordain'd, That all the Sub<g ref="char:EOLhyphen"/>jects of this Realme ſhall communicate once every year; And that if any ſhall abſtain upon any pretence or excuſe whatſoever, they being by their Paſtors thereto required, that they ſhall pay the penalties mentioned in the ſaid Act, <hi>viz.</hi> Every Earl ſo oft as he contraveens, one thouſand pounds <hi>Scots;</hi> Every Lord, one thouſand Merks; Every Baron, five hundred pounds; Every Free-holder, three hundred Merks; Every Yeoman, fourty pounds; and every Burgeſs according as We and Our Privy Council ſhall modifie: Requiring hereby all Our Judges and Magiſtrates in their reſpective Juriſdictions, to put the foreſaid Act in Execution againſt all perſons, of what profeſſion ſoever, conforme to the Words as well as the meaning of the Act it ſelf; and which We the rather do at this time, becauſe many of the <hi>Romiſh</hi> Church do delude and abuſe Our people, under the profeſſion of ſome one or other of thoſe who refuſe to conforme to the worſhip in this Reformed Church, as it is preſently eſtabliſh'd by Law: And We being deſirous that the Papiſts within this Our Realm, may be either Convinced or Convicted, do require and Command them betwixt and the twenty day of <hi>March</hi> next, to appear before the Archbiſhops or Biſhops of their reſpective Dioceſſes, and give ſatisfaction to them after con<g ref="char:EOLhyphen"/>ference, and obtain Teſtimonials thereupon; and in caſe they failzie to appear<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and give ſatisfaction as ſaid is, The Archbiſhops or Biſhops are hereby Ordained to take up liſts of the whole Papiſts within their Bounds, and to mark particularly who of them are Excommunicate, and who not, (who of them having been bred up in the true Reformed Religion, or
+having profeſſed the ſame) have made Defection, and to report the ſaids Liſts to Our Council, betwixt and the firſt Thurſday of <hi>April</hi> next; with Certification to ſuch Papiſts as ſhall not give Satiſfaction as ſaid is, Letters ſhall be direct againſt them to compear before Our privy Council, to produce Teſtimonials of their Satisfaction, under the pain of Rebellion. <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they failzie they ſhall be denounced Our Rebels, and not only their <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>veable Goods, but the Liferent of whatſoever their Lands, Rooms, poſſeſſions, and others belonging to them, ſhall pertain to us as Eſcheat, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> intrometted with, and diſponed upon as We ſhall think good, We being fully reſolved, to proceed to greater Degrees of Rigor againſt ſuch as being bred up in the true reformed Religion, or having profeſſed the ſame, have ſuffered themſelves to be deluded by, or have thrown themſelves into that dangerous Hereſie: And we do declare, that neither the ſaids Papiſts who ſhall be denounced in manner, and for the cauſe foreſaid, ſhall enjoy their Lands, Rents, or Revenues, either by themſelves di<g ref="char:EOLhyphen"/>rectly, or by any others covertly, or indirectly for their behoove; But that the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me ſhall be intrometted with for Our Uſe; and appoints the Rolls of all Excommunicate Papiſts to be printed, divulged, and affixed upon the Seſſion-houſe of <hi>Edinburgh,</hi> and other publick places of Judge<g ref="char:EOLhyphen"/>ment, Diſcharging hereby all the Judges of the reſpective Judicatures, to permit any contained in that Liſt, to purſue or bear witneſs in any Cauſe or Proceſs, till they be reconciled to the Church, and produce a Teſtimonial thereof as aforeſaid, conforme to the 45. Act of the 1. Parl. and the third Act of the 20. Parl. of King <hi>James</hi> the ſixth. OUR WILL is therefore, and We Charge you ſtrictly, and Command, that inconti<g ref="char:EOLhyphen"/>nent, theſe Our Letters ſeen, ye paſs to the Mercat Croſs of <hi>Edinburgh,</hi> and the Mercat Croſſes of the head Burghes of the reſpective Shires of this Kingdom; and thereat, by open Proclamation, make publication of the Pre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſſes: And We Ordain theſe preſents to be printed, that none pretend Ignorance.</p>
+            <closer>
+               <dateline>Given under Our Signet at <hi>Edinburgh,</hi> 
+                  <date>the twenty third day of <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>anuary</hi> 1679. and of Our Reign the thirtieth Year.</date>
+               </dateline>
+               <signed>
+                  <hi>Al Gibſon,</hi> Cls. Sti. Concilii.</signed>
+            </closer>
+            <closer>GOD ſave the KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Reprinted at <hi>London</hi> according to the Original Printed at <hi>Edinburgh;</hi> and are to be ſold by <hi>Andrew Forreſter,</hi> next dore to the <hi>Mitre</hi> Tavern in <hi>Kings-ſtreet, Weſtminſter,</hi> 1679.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
